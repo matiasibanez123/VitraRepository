@@ -5568,7 +5568,7 @@ GameObject:
   - component: {fileID: 1094432566}
   - component: {fileID: 1094432568}
   m_Layer: 0
-  m_Name: WalkingArea
+  m_Name: WalkingArea - NavMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8774,7 +8774,7 @@ GameObject:
   - component: {fileID: 1590313201}
   - component: {fileID: 1590313202}
   m_Layer: 0
-  m_Name: Navmesh
+  m_Name: Navmesh - Navigation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
